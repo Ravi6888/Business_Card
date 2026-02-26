@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Business_Card</string>
+    <string name="textname">Sumanth Gowda</string>
+    <string name="titlename">Android Developer engineer</string>
+    <string name="phone_no">+916360139510</string>
+    <string name="social_media">\@sumanthgowda6888</string>
+    <string name="gmail">sumanthcp04@gmail.com</string>
 </resources>
